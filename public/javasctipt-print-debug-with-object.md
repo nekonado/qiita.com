@@ -1,12 +1,12 @@
 ---
-title: JavaScriptのprintデバッグでは{variable}が便利
+title: 'JavaScriptのprintデバッグでは{variable}が便利'
 tags:
   - JavaScript
-  - TypeScript
   - tips
+  - TypeScript
 private: false
-updated_at: "2024-09-16T08:43:11+09:00"
-id: null
+updated_at: '2024-09-17T07:21:19+09:00'
+id: 90bb23d9905e3f148191
 organization_url_name: SasukeFL
 slide: false
 ignorePublish: false
